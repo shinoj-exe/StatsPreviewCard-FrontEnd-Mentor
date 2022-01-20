@@ -1,6 +1,7 @@
 # Frontend Mentor - Stats preview card component
 
 ![My Solution](./images/screenshot.png)
+![My MobileSolution](./images/mobile-screenshot.png)
 
 ## Welcome! 👋
 
